@@ -12,5 +12,5 @@ This repository includes 3 course projects of Coursera's Statistics with R Speci
 
 ## Links    
 - To see individual html page, use below links:   
-(1) http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html   
+(1) https://htmlpreview.github.io/?https://github.com/seojpark91/Statistics_with_R_Specialization/blob/master/1.intro_data_prob_project_SeoJungPark.html
 (2)
