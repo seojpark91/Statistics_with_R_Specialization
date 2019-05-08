@@ -11,6 +11,7 @@ This repository includes 3 course projects of Coursera's Statistics with R Speci
 - From Feb 2018 to July 2018
 
 ## Links    
-- To see individual html page, use below links:   
-(1) https://htmlpreview.github.io/?https://github.com/seojpark91/Statistics_with_R_Specialization/blob/master/1.intro_data_prob_project_SeoJungPark.html
-(2)
+- To see individual html page, use below links:    
+(1) https://htmlpreview.github.io/?https://github.com/seojpark91/Statistics_with_R_Specialization/blob/master/1.intro_data_prob_project_SeoJungPark.html   
+(2) https://htmlpreview.github.io/?https://github.com/seojpark91/Statistics_with_R_Specialization/blob/master/2.stat_inf_project_SeoJungPark.html   
+(3) https://htmlpreview.github.io/?https://github.com/seojpark91/Statistics_with_R_Specialization/blob/master/3.reg_model_project_Seo%20Jung%20Park.html   
